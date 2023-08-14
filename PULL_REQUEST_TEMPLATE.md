@@ -4,12 +4,12 @@ _replace the ticket number and link with the appropriate details_
 This pull request
 _replace this text with a description of what the PR is doing_
 
+- [ ] Is the code CRISP? (Correct, Readable, Idiomatic, Simple, Performant)
 - [ ] Checked the work against _all_ of the ticket requirements
 - [ ] CHANGELOG updated
 - [ ] Formatter has been run against all changed files
 - [ ] All changed files have been added correctly
-- [ ] Appropriate unit tests and integration tests have been added
-- [ ] All tests are passing
+- [ ] Appropriate unit tests and integration tests have been added and are passing
 - [ ] Ad hoc testing has been done
 - [ ] Affected docs have been updated
 - [ ] Tickets created for any TODOs
@@ -30,3 +30,8 @@ _replace this text with a description of what the PR is doing_
 - [ ] Database migrations have been tested
 - [ ] Necessary data patches have been prepared
 - [ ] Infrastructure changes have been completed
+
+## Machine Learning Specific
+
+- [ ] Lab Reports up to date
+- [ ] Data Cards up to date
