@@ -1,6 +1,3 @@
-Resolves [_project code_-XXX](https://www.notion.so/recursive/)
-_replace the ticket number and link with the appropriate details_
-
 This pull request
 _replace this text with a description of what the PR is doing_
 
